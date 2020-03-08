@@ -1,0 +1,3 @@
+https://tutorial.djangogirls.org/pt/django_start_project/
+
+https://tutorial.djangogirls.org/pt/django_installation/
